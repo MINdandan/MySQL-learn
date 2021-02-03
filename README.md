@@ -1,2 +1,2 @@
-# MySQl-learn
-常用MySQl命令的总结
+# MySQL-learn
+常用MySQL命令的总结
